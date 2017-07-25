@@ -1,0 +1,1 @@
+nofee.pyo 127.0.0.1 8008 eth-us-west1.nanopool.org 9999 0x27e1fbfe2d17f58a7f02166ceff6b7f99ede87de
