@@ -1,4 +1,4 @@
-Install: 
+INSTALLATION: 
 - Download and Install Python 2.7.13 at: https://www.python.org/downloads/release/python-2713/
 - Open file hosts at "C:\Windows\System32\drivers\etc\hosts" and add a line:
 
